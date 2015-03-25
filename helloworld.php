@@ -1,3 +1,3 @@
 <?php
-echo 'olá galera!';
+echo 'o git não loga nesse site!';
 ?>
